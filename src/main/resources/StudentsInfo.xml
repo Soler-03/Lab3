@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students-info>
+
+    <student-info>
+        <surname>дубяго</surname>
+        <name>андрей</name>
+        <patronymic>дмитриевич</patronymic>
+        <birthday>29.10.2001</birthday>
+        <sex>мужской</sex>
+        <gradebook-number>95100038</gradebook-number>
+        <speciality>программное обеспечения информационных технологий</speciality>
+    </student-info>
+
+    <student-info>
+        <surname>шостак</surname>
+        <name>кирил</name>
+        <patronymic>леонидович</patronymic>
+        <birthday>05.11.2001</birthday>
+        <sex>мужской</sex>
+        <gradebook-number>95100044</gradebook-number>
+        <speciality>программное обеспечения информационных технологий</speciality>
+    </student-info>
+
+    <student-info>
+
+        <surname>скабец</surname>
+        <name>жанна</name>
+        <patronymic>олеговна</patronymic>
+        <birthday>11.02.2002</birthday>
+        <sex>женский</sex>
+        <gradebook-number>95100056</gradebook-number>
+        <speciality>программное обеспечения информационных технологий</speciality>
+    </student-info>
+
+    <student-info>
+        <surname>гайдаш</surname>
+        <name>ирина</name>
+        <patronymic>петровна</patronymic>
+        <birthday>05.07.2000</birthday>
+        <sex>женский</sex>
+        <gradebook-number>12313213</gradebook-number>
+        <speciality>туризм и ресторанный бизнес</speciality>
+    </student-info>
+
+
+    <student-info>
+        <surname>Мурин</surname>
+        <name>Максим</name>
+        <patronymic>Сергеевич</patronymic>
+        <birthday>16.07.2000</birthday>
+        <sex>мужской</sex>
+        <gradebook-number>55555555</gradebook-number>
+        <speciality>военный</speciality>
+    </student-info>
+
+</students-info>
